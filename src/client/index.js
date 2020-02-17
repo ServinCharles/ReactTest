@@ -3,7 +3,7 @@ import { render } from 'react-dom';
 
 class App extends React.Component {
 state = {
-  count: 2,
+  count: 5,
 };
 
 Multiply = () => {
